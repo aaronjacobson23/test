@@ -1,1 +1,5 @@
-testrar '
+# Example of a specific team owning everything in the repository.
+* @tyler-technologies/exampleteam
+
+# Example of a specific team owning a directory:
+/api/ @tyler-technologies/exampleteam
